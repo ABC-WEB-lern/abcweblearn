@@ -1,0 +1,9 @@
+html{
+    height: 100%;
+    background: #f3f3f3;
+    background: -moz-linear-gradiente(parte superior, #f3f3f3 0%, #ffffff 50%);
+    background: -webkit-degradado(lineal, izquierda superior, izquierda inferior, el color de ventanilla(0%, #f3f3f3), el color de ventanilla(50%, #ffffff));
+    background: -webkit-lineal de gradiente (parte superior, #f3f3f3 0%, #ffffff 50%);
+    background: -o-lineal de gradiente (parte superior, #f3f3f3 0% , #ffffff 50%);
+    background: -ms-lineal-gradiente (parte superior , # f3f3f3 0%, #ffffff 50%);
+}
